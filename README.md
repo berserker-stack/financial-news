@@ -12,8 +12,7 @@ Biweekly Blog which brings you information about global stock markets, changes i
 - Asian market liquidity crises  
 
 ### 📬 Stay Updated
-- **Frequency**: Biweekly (every other Sunday)  
-- **Contact**: [Your Email] | [Twitter if applicable]  
+- **Frequency**: Biweekly (every Friday)  
 
 ---
 *"The economy is a living organism—we track its pulse."*  
