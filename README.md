@@ -1,5 +1,5 @@
 # financial-news
-Biweekly Blog which brings you information about global stock markets, changes in economic policies, and the overall state of the global economy. 
+Weekly Blog which brings you information about global stock markets, changes in economic policies, and the overall state of the global economy. 
 ### 🌍 What You'll Find Here
 - **Market Snapshots**: Key movements in global indices (S&P 500, Nikkei, DAX)  
 - **Policy Watch**: Central bank decisions, fiscal shifts, and regulatory impacts  
